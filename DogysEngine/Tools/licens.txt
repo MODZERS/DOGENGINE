@@ -1,0 +1,4 @@
+Copy Write
+this tool can not be reoploaded frome github to another site without permison
+if you want to upload it put this file inside of your programe/game or whatever
+your are useing my batch tools for.
